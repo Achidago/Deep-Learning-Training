@@ -1,6 +1,8 @@
 # Module 0 - Deep Learning Pre-Training Setup
 ## 1. Installing Python
-### Definition
+### Windows
+1. Download Python
+   - Go to the [official Python website] (https://www.python.org/downloads/)
 **Remote sensing** is the science and art of obtaining information about an object, area, or phenomenon through the analysis of data acquired by a device that is not in contact with the object, area, or phenomenon under investigation<sup>1</sup>. Modern day remote sensing started with the advent of radar, sonar, and thermal infrared detection systems during World War II. Since then, detectors have been expanded to obtain information from most of the bands in the EM spectrum, with a variety of applications spanning from military use to agriculture. <br> 
 
 ### Types of Resolutions: <br>
