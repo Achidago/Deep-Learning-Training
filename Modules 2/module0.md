@@ -23,8 +23,40 @@ b. Install Python
    - Run python3 --version to ensure Python is installed  <br> 
 
 
-## 1. Installing Pip and Virtual Environment (Windows & macOS)
-   
+## 2. Installing Pip and Virtual Environment (Windows & macOS)
+a. Upgrade pip
+   - Windows: Open Command Prompt
+   - macOS: Open Terminal
+   - Run: python3 -m pip install --upgrade pip
+
+b. Install virtual environment
+   - Run: python3 -m pip install --user virtualenv
+
+c. Create a virtual environment
+   - Run: python3 -m venv myenv
+
+d. Activate the virtual environment
+   - On Windows: myenv\Scripts\activate
+   - On macOS: source myenv/bin/activate
+
+
+## 3. Installing Pip and Virtual Environment
+**Windows & macOS**
+a. Upgrade pip
+   - Windows: Open Command Prompt
+   - macOS: Open Terminal
+   - Run: python3 -m pip install --upgrade pip
+
+b. Install virtual environment
+   - Run: python3 -m pip install --user virtualenv
+
+c. Create a virtual environment
+   - Run: python3 -m venv myenv
+
+
+
+
+
 **Remote sensing** is the science and art of obtaining information about an object, area, or phenomenon through the analysis of data acquired by a device that is not in contact with the object, area, or phenomenon under investigation<sup>1</sup>. Modern day remote sensing started with the advent of radar, sonar, and thermal infrared detection systems during World War II. Since then, detectors have been expanded to obtain information from most of the bands in the EM spectrum, with a variety of applications spanning from military use to agriculture. <br> 
 
 ### Types of Resolutions: <br>
