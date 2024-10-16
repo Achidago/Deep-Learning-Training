@@ -78,14 +78,14 @@ c. Verify TensorFlow installation:
 
 ## 5. Exercises and Pre-training Survey
 
-- Please complete the [[Exercise 0]]
+- Please complete the [Exercise 0]
 
-- Please submit your exercises [[here]](https://github.com/SERVIR-WA/GALUP/issues/new?assignees=Achidago&labels=Exercise+W4M0&template=Exercise0Template.md&title=Workshop+4+exercise+0+%5Breplace+with+your+name%5D)
+- Please submit your exercises [[here]]
 
 ## 6. What's Next?
 
-Module 1 - [Time Series Analysis](module1.md)
+Module 1 - [First Module]
 
 ## 8. Other Resources
-
+Relevant resources ahead of training
 
