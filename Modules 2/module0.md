@@ -1,18 +1,30 @@
 # Module 0 - Deep Learning Pre-Training Setup
 ## 1. Installing Python
 ### Windows
-1. Download Python
+a. Download Python
    - Go to the [official Python website](https://www.python.org/downloads/)
    - Download the latest version (Python 3.9 or 3.10)
 
-2. Install Python
+b. Install Python
    - Run the installer
    - Ensure that you check the box "Add Python to PaATH" during the installation process.
    - Click "Install Now"
   
-3. Verify the installation
+c. Verify the installation
    - Open Command Prompt
-   - Run python --version that Python is installed correctly.
+   - Run python --version that Python is installed correctly. <br>
+
+### MacOS
+a. Install Homebrew (if not installed)
+   - Open Terminal and run: /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   - In the terminal run: brew install python
+
+b. Install Python
+   - Run python3 --version to ensure Python is installed  <br> 
+
+
+## 1. Installing Pip and Virtual Environment (Windows & macOS)
+   
 **Remote sensing** is the science and art of obtaining information about an object, area, or phenomenon through the analysis of data acquired by a device that is not in contact with the object, area, or phenomenon under investigation<sup>1</sup>. Modern day remote sensing started with the advent of radar, sonar, and thermal infrared detection systems during World War II. Since then, detectors have been expanded to obtain information from most of the bands in the EM spectrum, with a variety of applications spanning from military use to agriculture. <br> 
 
 ### Types of Resolutions: <br>
