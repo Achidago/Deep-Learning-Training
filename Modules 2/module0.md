@@ -20,10 +20,13 @@ a. Install Homebrew (if not installed)
    - In the terminal run: brew install python
 
 b. Install Python
-   - Run python3 --version to ensure Python is installed  <br> 
+   - Run python3 --version to ensure Python is installed.  <br> 
 
 
 ## 2. Installing Pip and Virtual Environment (Windows & macOS)
+
+**Windows & macOS**  <br>
+
 a. Upgrade pip
    - Windows: Open Command Prompt
    - macOS: Open Terminal
@@ -40,21 +43,37 @@ d. Activate the virtual environment
    - On macOS: source myenv/bin/activate
 
 
-## 3. Installing Pip and Virtual Environment
-**Windows & macOS**
-a. Upgrade pip
-   - Windows: Open Command Prompt
-   - macOS: Open Terminal
-   - Run: python3 -m pip install --upgrade pip
+## 3. Installing TensorFlow
 
-b. Install virtual environment
-   - Run: python3 -m pip install --user virtualenv
+**Windows & macOS**  <br>
 
-c. Create a virtual environment
-   - Run: python3 -m venv myenv
+a. Activate the virtual environment (if not already activated)
+   - Windows: myenv\Scripts\activate
+   - macOS: source myenv/bin/activate
+
+b. nstall TensorFlow
+   - Run: pip install tensorflowv
+
+c. Verify TensorFlow installation
+   - Run the following in Python: import tensorflow as tf; print(tf.__version__)
+   - This should print the TensorFlow version installed.
 
 
+## 4. Installing PyTorch
 
+**Windows & macOS**  <br>
+
+a. Activate the virtual environment (if not already activated):
+   - Windows: myenv\Scripts\activate
+   - macOS: source myenv/bin/activate
+
+b. Install PyTorch:
+   - Go to the official PyTorch website and choose your configuration (Python, OS, CUDA/CPU).
+   - Copy the recommended installation command and run it in your terminal/command prompt. For example: pip install torch torchvision torchaudio
+
+c. Verify TensorFlow installation:
+   - Run the following in Python: import torch; print(torch.__version__)
+   - This should print the PyTorch version installed.
 
 
 **Remote sensing** is the science and art of obtaining information about an object, area, or phenomenon through the analysis of data acquired by a device that is not in contact with the object, area, or phenomenon under investigation<sup>1</sup>. Modern day remote sensing started with the advent of radar, sonar, and thermal infrared detection systems during World War II. Since then, detectors have been expanded to obtain information from most of the bands in the EM spectrum, with a variety of applications spanning from military use to agriculture. <br> 
