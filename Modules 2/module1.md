@@ -30,7 +30,7 @@
 - **Loss Functions**:
     a. **Mean Squared Error (MSE)**: MSE calculates the average squared difference between predicted values (​ŷi) and actual values (yi).
 
-    b. Mean Absolute Error (MAE): MAE calculates the average absolute difference between predicted and actual values.
+    b. **Mean Absolute Error (MAE)**: MAE calculates the average absolute difference between predicted and actual values.
 
     c. **Binary Cross-Entropy (BCE)**: BCE measures the difference between actual and predicted probabilities in binary classification.
 
