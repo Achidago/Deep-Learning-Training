@@ -27,7 +27,7 @@
 
 - **Forward and backward propagation**: The **forward** pass produces predictions based on the current weights and biases of the network. These predictions are then compared to the actual labels using a loss function, which calculates the error. **Backpropagation** is the process of calculating gradients for each weight and bias in the network and then updating them to minimize the error.
 
-- **Loss Functions**:
+- **Loss Functions**: <br>
     a. **Mean Squared Error (MSE)**: MSE calculates the average squared difference between predicted values (​ŷi) and actual values (yi).
 
     b. **Mean Absolute Error (MAE)**: MAE calculates the average absolute difference between predicted and actual values.
