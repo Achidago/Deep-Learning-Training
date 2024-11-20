@@ -1,15 +1,18 @@
-# Module 1 - Time Series Analysis 
-> **Instructor**: [Dr. Aditya Singh](https://abe.ufl.edu/people/faculty/aditya-singh/) (<ins>aditya01@<i></i>ufl.edu</ins>) <br>
-> **Co-authors**: Silas Achidago (<ins>s.achidago@<i></i>ufl.edu</ins>) and Julie Peeling (<ins>juliepeeling@<i></i>ufl.edu</ins>)
+# Module 1 - Artificial Neural Network 
+> **Instructor**: [Dr. Aditya Singh](https://abe.ufl.edu/people/faculty/aditya-singh/) (<ins>emmanuelasare@<i></i>ufl.edu</ins>) <br>
+> **Co-author**: Emmanuel Asare (<ins>emmanuelasare@<i></i>ufl.edu</ins>) and Silas Achidago (<ins>s.achidago@<i></i>ufl.edu</ins>)
 
 
 **What will you learn from this module?**
-- Time Series Analysis Concept and Fundamentals
-- Time Series Analysis Methods
-- Techniques for Time Series Analysis in GEE
+- 
+- 
+- 
+# Neural Networks Overview
+- ## Artificial Neural Networks (ANN)
+**What is a neural network?**: **An Artificial Neural Network (ANN)** is a computational model inspired by the way biological neural networks in the brain process information. ANNs consist of layers of interconnected nodes (neurons) that transform input data into output predictions. <br>
 
-## 1. Introduction to Time Series Analysis
-Geospatial **Time Series Analysis** techniques help monitor and quantify landscapes change across time and space. Mapping temporal changes can provide information on the rates, causes, and consequences or dynamic processes such as urbanization, land degradation, phenology, and trends in environmental parameters such as rainfall and temperature. <br>
+- ## Structure
+ - **Input Layer**: The input layer receives the raw data (e.g., satellite images or geographical data). Each neuron in this layer corresponds to one feature or variable in the data.
 
 **Common Applications of Time Series Analysis:**
 - Identifying urban expansion,
