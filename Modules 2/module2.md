@@ -1,3 +1,6 @@
+> **Instructor**: [Dr. Aditya Singh](https://abe.ufl.edu/people/faculty/aditya-singh/) (<ins>aditya01@<i></i>ufl.edu</ins>) <br>
+> **Co-authors**: Emmanuel Asare (<ins>emmanuelasare@<i></i>ufl.edu</ins>) and Silas Achidago (<ins>s.achidago@<i></i>ufl.edu</ins>)
+
 # Module 2 - Convolutional Neural Network
 
 # Overview
@@ -9,9 +12,6 @@
   a. CNNs automatically learn spatial hierarchies, recognizing complex patterns.
   b. CNNs share weights, significantly reducing parameters compared to fully connected layers.
 
-
-> **Instructor**: [Dr. Aditya Singh](https://abe.ufl.edu/people/faculty/aditya-singh/) (<ins>aditya01@<i></i>ufl.edu</ins>) <br>
-> **Co-authors**: Emmanuel Asare (<ins>emmanuelasare@<i></i>ufl.edu</ins>) and Silas Achidago (<ins>s.achidago@<i></i>ufl.edu</ins>)
 
 **What will you learn from this module?**
 - Introduction to change detection using remote sensing,
