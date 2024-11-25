@@ -2,19 +2,11 @@
 > **Instructor**: [Dr. Aditya Singh](https://abe.ufl.edu/people/faculty/aditya-singh/) (<ins>aditya01@<i></i>ufl.edu</ins>) <br>
 > **Co-author**: Emmanuel Asare (<ins>emmanuelasare@<i></i>ufl.edu</ins>) and Silas Achidago (<ins>s.achidago@<i></i>ufl.edu</ins>)
 
-
-**What will you learn from this module?**
-- 
-- 
-- 
-
 # Neural Networks Overview
 - ## Artificial Neural Networks (ANN)
 **What is a neural network?**: **An Artificial Neural Network (ANN)** is a computational model inspired by the way biological neural networks in the brain process information. ANNs consist of layers of interconnected nodes (neurons) that transform input data into output predictions. <br>
 
-\[
-f(x) = 11 + e^{-x}
-\]
+
 
 - ## Structure
   - **Input Layer**: The input layer receives the raw data (e.g., satellite images or geographical data). Each neuron in this layer corresponds to one feature or variable in the data.
@@ -25,7 +17,9 @@ f(x) = 11 + e^{-x}
 
 - **Activation Functions**: Activation functions play a crucial role in deep learning by introducing non-linearity into the neural network.
 
-
+<p align="center">
+<img src="https://accra-training.s3.us-east-2.amazonaws.com/ann.png">
+</p>
 
 
 
