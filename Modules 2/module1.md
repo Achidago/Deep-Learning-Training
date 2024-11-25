@@ -34,7 +34,8 @@ Examples: <br>
 <img src="https://accra-training.s3.us-east-2.amazonaws.com/tanh-chart.jpg">
 </p>
 
-3. ReLU: f(x) = max(0,x)
+3. <img src="https://accra-training.s3.us-east-2.amazonaws.com/relu-function.png">
+</p>
    
 4. Leaky ReLU: f(x) = x
 <p align="center">
