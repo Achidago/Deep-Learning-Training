@@ -24,7 +24,18 @@
 </p>
 
 - **Activation Functions**: Activation functions play a crucial role in deep learning by introducing non-linearity into the neural network.
-
+Examples: <br>
+1. asasasdsd
+   
+2. sasasasas
+   
+3. asasasa
+   
+4. asasasas
+   
+5. <p align="center">
+<img src="https://accra-training.s3.us-east-2.amazonaws.com/softmax+function.png">
+</p>
 
 - **Forward and backward propagation**: The **forward** pass produces predictions based on the current weights and biases of the network. These predictions are then compared to the actual labels using a loss function, which calculates the error. **Backpropagation** is the process of calculating gradients for each weight and bias in the network and then updating them to minimize the error.
 
