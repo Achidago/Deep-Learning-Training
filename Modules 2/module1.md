@@ -25,7 +25,7 @@
 
 - **Activation Functions**: Activation functions play a crucial role in deep learning by introducing non-linearity into the neural network.
 Examples: <br>
-1. asasasdsd
+1. Sigmoid:
    
 2. <p align="center">
 <img src="https://accra-training.s3.us-east-2.amazonaws.com/tanh+function.png">
@@ -34,7 +34,7 @@ Examples: <br>
 <img src="https://accra-training.s3.us-east-2.amazonaws.com/tanh-chart.jpg">
 </p>
 
-3. dasdd
+3. ReLU: f(x) = max(0,x)
    
 4. Leaky ReLU: f(x) = x
 <p align="center">
