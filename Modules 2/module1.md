@@ -3,12 +3,12 @@
 > **Co-author**: Silas Achidago (<ins>s.achidago@<i></i>ufl.edu</ins>)
 
 # Neural Networks Overview
-- ## Artificial Neural Networks (ANN)
+## Artificial Neural Networks (ANN)
 **What is a neural network?**: **An Artificial Neural Network (ANN)** is a computational model inspired by the way biological neural networks in the brain process information. ANNs consist of layers of interconnected nodes (neurons) that transform input data into output predictions. <br>
 
 
 
-- ## Structure
+## Structure
   - **Input Layer**: The input layer receives the raw data (e.g., satellite images or geographical data). Each neuron in this layer corresponds to one feature or variable in the data.
   - **Hidden Layers**: These are intermediate layers between input and output. They apply transformations to the data using weights and biases. The number of hidden layers and neurons per layer defines the complexity of the model. In simple ANNs, these layers are **fully connected** (dense), meaning each neuron in a layer is connected to every neuron in the next layer.
   - **Output Layer**: This layer produces the final prediction, which could be a class label (in classification tasks) or a continuous value (in regression tasks).
