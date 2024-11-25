@@ -1,6 +1,6 @@
 # Module 1 - Artificial Neural Network 
 > **Instructor**: Emmanuel Asare (<ins>emmanuelasare@<i></i>ufl.edu</ins>) <br>
-> **Co-Instructor**: Silas Achidago (<ins>s.achidago@<i></i>ufl.edu</ins>)
+> **Co-author**: Silas Achidago (<ins>s.achidago@<i></i>ufl.edu</ins>)
 
 # Neural Networks Overview
 - ## Artificial Neural Networks (ANN)
