@@ -31,9 +31,12 @@ Examples: <br>
    
 3. asasasa
    
-4. asasasas
+4. Leaky ReLU: f(x) = x
+<p align="center">
+<img src="https://accra-training.s3.us-east-2.amazonaws.com/leaky-relu-chart.webp">
+</p>
    
-5. <p align="center">
+6. <p align="center">
 <img src="https://accra-training.s3.us-east-2.amazonaws.com/softmax+function.png">
 </p>
 
