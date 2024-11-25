@@ -39,4 +39,5 @@
 <p align="center">
 <img src="https://accra-training.s3.us-east-2.amazonaws.com/bce-function.png">
 </p> <br>
+    
     d. **Categorical Cross-Entropy**: This is an extension of binary cross-entropy for multi-class classification.
