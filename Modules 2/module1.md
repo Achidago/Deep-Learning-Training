@@ -19,6 +19,10 @@
 
 - **Neuron**: A neuron (or node) is a fundamental unit in artificial neural networks (ANNs) that processes input data and produces output.
 
+<p align="center">
+<img src="https://accra-training.s3.us-east-2.amazonaws.com/neuron.png">
+</p>
+
 - **Activation Functions**: Activation functions play a crucial role in deep learning by introducing non-linearity into the neural network.
 
 
