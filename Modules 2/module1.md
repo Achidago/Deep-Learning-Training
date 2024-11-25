@@ -13,14 +13,13 @@
   - **Hidden Layers**: These are intermediate layers between input and output. They apply transformations to the data using weights and biases. The number of hidden layers and neurons per layer defines the complexity of the model. In simple ANNs, these layers are **fully connected** (dense), meaning each neuron in a layer is connected to every neuron in the next layer.
   - **Output Layer**: This layer produces the final prediction, which could be a class label (in classification tasks) or a continuous value (in regression tasks).
 
-- **Neuron**: A neuron (or node) is a fundamental unit in artificial neural networks (ANNs) that processes input data and produces output.
-
-- **Activation Functions**: Activation functions play a crucial role in deep learning by introducing non-linearity into the neural network.
-
 <p align="center">
 <img src="https://accra-training.s3.us-east-2.amazonaws.com/ann.png">
 </p>
 
+- **Neuron**: A neuron (or node) is a fundamental unit in artificial neural networks (ANNs) that processes input data and produces output.
+
+- **Activation Functions**: Activation functions play a crucial role in deep learning by introducing non-linearity into the neural network.
 
 
 - **Forward and backward propagation**: The **forward** pass produces predictions based on the current weights and biases of the network. These predictions are then compared to the actual labels using a loss function, which calculates the error. **Backpropagation** is the process of calculating gradients for each weight and bias in the network and then updating them to minimize the error.
