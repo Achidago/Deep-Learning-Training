@@ -28,16 +28,16 @@
     a. **Mean Squared Error (MSE)**: MSE calculates the average squared difference between predicted values (​ŷi) and actual values (yi).
 <p align="center">
 <img src="https://accra-training.s3.us-east-2.amazonaws.com/mse-function.png">
-</p> <br>
+</p>
 
     b. **Mean Absolute Error (MAE)**: MAE calculates the average absolute difference between predicted and actual values.
 <p align="center">
 <img src="https://accra-training.s3.us-east-2.amazonaws.com/mae-function.png">
-</p> <br>
+</p>
 
     c. **Binary Cross-Entropy (BCE)**: BCE measures the difference between actual and predicted probabilities in binary classification.
 <p align="center">
 <img src="https://accra-training.s3.us-east-2.amazonaws.com/bce-function.png">
-</p> <br>
+</p>
     
     d. **Categorical Cross-Entropy**: This is an extension of binary cross-entropy for multi-class classification.
