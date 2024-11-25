@@ -27,14 +27,16 @@
 Examples: <br>
 1. Sigmoid:
    
-2. <p align="center">
+2.
+<p align="center">
 <img src="https://accra-training.s3.us-east-2.amazonaws.com/tanh+function.png">
 </p>
 
 <img src="https://accra-training.s3.us-east-2.amazonaws.com/tanh-chart.jpg">
 </p>
 
-3. <img src="https://accra-training.s3.us-east-2.amazonaws.com/relu-function.png">
+3.
+<img src="https://accra-training.s3.us-east-2.amazonaws.com/relu-function.png">
 </p>
    
 4. Leaky ReLU: f(x) = x
