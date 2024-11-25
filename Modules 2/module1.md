@@ -1,6 +1,6 @@
 # Module 1 - Artificial Neural Network 
-> **Instructor**: [Dr. Aditya Singh](https://abe.ufl.edu/people/faculty/aditya-singh/) (<ins>aditya01@<i></i>ufl.edu</ins>) <br>
-> **Co-author**: Emmanuel Asare (<ins>emmanuelasare@<i></i>ufl.edu</ins>) and Silas Achidago (<ins>s.achidago@<i></i>ufl.edu</ins>)
+> **Instructor**: Emmanuel Asare (<ins>emmanuelasare@<i></i>ufl.edu</ins>) <br>
+> **Co-Instructor**: Silas Achidago (<ins>s.achidago@<i></i>ufl.edu</ins>)
 
 # Neural Networks Overview
 - ## Artificial Neural Networks (ANN)
