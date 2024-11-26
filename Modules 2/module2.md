@@ -12,33 +12,3 @@
   a. CNNs automatically learn spatial hierarchies, recognizing complex patterns.
   b. CNNs share weights, significantly reducing parameters compared to fully connected layers.
 
-
-**What will you learn from this module?**
-- Introduction to change detection using remote sensing,
-- Different ways change can be detected, choosing the best sensor combinations,
-- Conducting change detection in GEE using a few common examples.
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/40871781/201491844-a3dd8fa8-2b9f-4ce4-b315-cd339e1d9c45.gif">
-</p>
-<sub align="center"> Continental-scale vegetation phenology tracked by MODIS.</sub> 
-
-([Source](https://developers.google.com/earth-engine/tutorials/community/modis-ndvi-time-series-animation))<br>
-
-<p align="left">
-<img src="https://user-images.githubusercontent.com/85199074/194796915-95e941ba-75d1-4c58-aa52-2462e10d18ba.jpg">
-</p>
-<sub> Healthy vegetation has a large peak in the near infrared region, while soil or burned areas are much lower. Healthy vegetation also has low reflectance in the red and shortwave infrared regions in contrast with burned areas.</sub>
-
-([Source](https://appliedsciences.nasa.gov/join-mission/training/english/arset-using-google-earth-engine-land-monitoring-applications))<br>
- 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/85199074/194987983-817db71d-207d-4624-a9bc-fcaf350750c9.png">
-</p>
-
-## 5. Post-training Survey
-- Please take this [post-training survey]
-
-## 6. Other Useful Resources
- 1. [Cloud-Based Remote Sensing with Google Earth Engine](https://www.eefabook.org/go-to-the-book.html)<br>
- 2. [NASA ARSET: Time Series Analysis](https://www.youtube.com/watch?v=RqVselZ5hKM&t=3695s)<br>
